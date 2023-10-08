@@ -15,7 +15,7 @@ currencies.json contains associtaion between currency codes and symbols.
 ### Deployment using Dockerfile
 For deployment on production Dockerfile is provided. Build image from the Dockerfile:
 ```bash
-docker build -t currency-converter
+docker build . -t currency-converter
 ```
 
 Run the currency-converter image:
