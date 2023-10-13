@@ -4,8 +4,11 @@ Currency converter program:
 - CLI application
 - Web API application
 
-Client scripts: converter-cli.py and converter-web.py. converter.py comprises the logic of the currency converter. 
-currencies.json contains associtaion between currency codes and symbols.
+Client scripts: 
+
+converter-cli.py and converter-web.py. converter.py comprises the logic of the currency converter. 
+
+currencies.json contains mapping between currency codes and symbols.
 
 ## Installation
 ### Requirements
